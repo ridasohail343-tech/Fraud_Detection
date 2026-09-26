@@ -1,0 +1,10 @@
+venv/
+**pycache**/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+
+fraud.csv
+*.csv
+*.pkl
